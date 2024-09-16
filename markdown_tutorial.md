@@ -41,3 +41,9 @@ Ordered
 	* Item 3b
 
 
+## IMAGES
+
+![Brewer Lab Logo](http://brewerlab.weebly.com/uploads/9/8/3/7/98371626/spiderdrawingslack.png) 
+
+Format: \![Alt text](url)
+
